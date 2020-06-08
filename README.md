@@ -4,13 +4,13 @@ Problemas resolvidos do [URI Online Judge](https://www.urionlinejudge.com.br/), 
 ## Perfil
 Segue meu perfil para acompanhar o progresso: [Thiago Leal Menezes](https://www.urionlinejudge.com.br/judge/pt/profile/295490).
 
-    Posição: 15.808º
+    Posição: 15.051º
     País: BR
     Universidade: IFCE
     Desde: 17/10/2018
-    Pontos: 317,4561
-    Resolvido: 109
-    Tentado: 114
-    Submissões: 209
+    Pontos: 324,1970
+    Resolvido: 114
+    Tentado: 119
+    Submissões: 214
 
-**Obs.:** consultado no dia 05/06/2020.
+**Obs.:** consultado no dia 08/06/2020.

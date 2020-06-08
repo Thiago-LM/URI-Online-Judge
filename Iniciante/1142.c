@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main()
+{
+    int N, i, a = 1;
+
+    scanf("%d", &N);
+
+    for(i = 0; i < N; i++){
+        printf("%d %d %d PUM\n", a, a+1, a+2);
+        a += 4;
+    }
+
+    return 0;
+}
+ 
