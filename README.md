@@ -6,13 +6,13 @@ Problemas resolvidos do [beecrowd](https://www.beecrowd.com.br/) (antigo URI Onl
 
 Segue meu perfil para acompanhar o progresso: [Thiago Leal Menezes](https://www.beecrowd.com.br/judge/en/profile/295490).
 
-    Posição: 16,466º
+    Posição: 14,771º
     País: BR
     Universidade: UNIFOR
     Desde: 17/10/2018
-    Pontos: 391.6383
+    Pontos: 412.4403
     Resolvido: 142
     Tentado: 147
-    Submissões: 276
+    Submissões: 284
 
-**Obs.:** consultado no dia 15/08/2025.
+**Obs.:** consultado no dia 18/08/2025.
